@@ -1,6 +1,6 @@
 # 📊 Insurance Outcome Prediction using ML
 
-## 🧠 Overview
+## Overview
 This project predicts insurance outcome (0 or 1) based on **age** using Machine Learning models.
 
 - Linear Regression is used for understanding trend prediction
@@ -8,7 +8,7 @@ This project predicts insurance outcome (0 or 1) based on **age** using Machine 
 
 ---
 
-## 📁 Dataset
+##  Dataset
 - Age (input feature)
 - Insurance Outcome (0 = No, 1 = Yes)
 
@@ -23,19 +23,19 @@ This project predicts insurance outcome (0 or 1) based on **age** using Machine 
 
 ---
 
-## 🚀 Models Used
+##  Models Used
 
-### 📈 Linear Regression
+### Linear Regression
 Used to predict continuous values and understand the trend between age and outcome.
 
-### 🎯 Logistic Regression
+### Logistic Regression
 Used to classify insurance outcome:
 - 0 → No insurance approval / outcome negative  
 - 1 → Insurance approval / positive outcome  
 
 ---
 
-## 📊 Workflow
+##  Workflow
 - Load dataset  
 - Visualize age vs outcome  
 - Train Linear Regression model  
